@@ -1,7 +1,7 @@
 # Reflection – Arithmetic Expression Mini-Language  
 ### Author: Alana Bernardez Banegas  
 ### Languages & Paradigms – Fall 2025  
-### Instructor: _____________________  
+### Instructor: Dr. Omar  
 ### Project Category: A2 – BNF Grammar for Mini-Language
 
 ---
